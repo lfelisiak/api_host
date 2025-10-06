@@ -6,11 +6,13 @@
     "correo": "sofia.garcia@empresa.com",
     "sector": "Marketing",
     "equipo": "Contenido",
-    "desde1": "10/03/2024",
-    "hasta1": "12/20/2024",
-    "desde2": "02/10/2025",
-    "hasta2": "05/30/2025",
-    "comentarios": "Entrega resultados constantes, comunica con claridad y apoya a colegas en proyectos complejos."
+    "fecha_ingreso": "2021-07-15",
+    "desde1": "2025-12-15",
+    "hasta1": "2025-12-30",
+    "desde2": "2026-01-10",
+    "hasta2": "2026-01-25",
+    "comentarios": "Entrega resultados constantes, comunica con claridad y apoya a colegas en proyectos complejos.",
+    "imagen": "https://picsum.photos/seed/1/200/200"
   },
   {
     "id": 2,
@@ -19,11 +21,13 @@
     "correo": "mateo.lopez@empresa.com",
     "sector": "Tecnología",
     "equipo": "Backend",
-    "desde1": "10/15/2024",
-    "hasta1": "01/31/2025",
-    "desde2": "03/01/2025",
-    "hasta2": "08/15/2025",
-    "comentarios": "Aprende rápido, mantiene documentación ordenada y sugiere automatizaciones que reducen trabajo repetitivo."
+    "fecha_ingreso": "2020-03-01",
+    "desde1": "2025-12-20",
+    "hasta1": "2026-01-09",
+    "desde2": "2026-02-01",
+    "hasta2": "2026-02-20",
+    "comentarios": "Aprende rápido, mantiene documentación ordenada y sugiere automatizaciones que reducen trabajo repetitivo.",
+    "imagen": "https://picsum.photos/seed/2/200/200"
   },
   {
     "id": 3,
@@ -32,11 +36,13 @@
     "correo": "valentina.martinez@empresa.com",
     "sector": "Producto",
     "equipo": "Gestión",
-    "desde1": "11/01/2024",
-    "hasta1": "02/28/2025",
-    "desde2": "04/05/2025",
-    "hasta2": "09/20/2025",
-    "comentarios": "Lidera iniciativas clave, gestiona prioridades cambiantes y fomenta una cultura de mejora continua."
+    "fecha_ingreso": "2014-06-10",
+    "desde1": "2025-11-10",
+    "hasta1": "2025-12-08",
+    "desde2": "2026-02-01",
+    "hasta2": "2026-02-28",
+    "comentarios": "Lidera iniciativas clave, gestiona prioridades cambiantes y fomenta una cultura de mejora continua.",
+    "imagen": "https://picsum.photos/seed/3/200/200"
   },
   {
     "id": 4,
@@ -45,11 +51,13 @@
     "correo": "diego.fernandez@empresa.com",
     "sector": "Tecnología",
     "equipo": "SRE",
-    "desde1": "10/05/2024",
-    "hasta1": "12/31/2024",
-    "desde2": "01/20/2025",
-    "hasta2": "06/30/2025",
-    "comentarios": "Resuelve incidentes urgentes con calma, comparte conocimiento y previene recurrencias mediante revisiones postmortem."
+    "fecha_ingreso": "2018-05-12",
+    "desde1": "2025-12-01",
+    "hasta1": "2025-12-21",
+    "desde2": "2026-02-02",
+    "hasta2": "2026-02-22",
+    "comentarios": "Resuelve incidentes urgentes con calma, comparte conocimiento y previene recurrencias mediante revisiones postmortem.",
+    "imagen": "https://picsum.photos/seed/4/200/200"
   },
   {
     "id": 5,
@@ -58,11 +66,13 @@
     "correo": "lucia.rodriguez@empresa.com",
     "sector": "Atención al Cliente",
     "equipo": "Éxito del Cliente",
-    "desde1": "12/10/2024",
-    "hasta1": "03/15/2025",
-    "desde2": "04/01/2025",
-    "hasta2": "07/31/2025",
-    "comentarios": "Mantiene excelente relación con clientes, analiza datos de uso y propone estrategias para retención."
+    "fecha_ingreso": "2022-04-01",
+    "desde1": "2025-12-15",
+    "hasta1": "2025-12-30",
+    "desde2": "2026-01-10",
+    "hasta2": "2026-01-25",
+    "comentarios": "Mantiene excelente relación con clientes, analiza datos de uso y propone estrategias para retención.",
+    "imagen": "https://picsum.photos/seed/5/200/200"
   },
   {
     "id": 6,
@@ -71,11 +81,13 @@
     "correo": "santiago.perez@empresa.com",
     "sector": "Operaciones",
     "equipo": "Procesos",
-    "desde1": "10/07/2024",
-    "hasta1": "01/10/2025",
-    "desde2": "03/15/2025",
-    "hasta2": "09/30/2025",
-    "comentarios": "Optimiza procesos internos, crea tableros útiles y coordina esfuerzos entre áreas con efectiva comunicación."
+    "fecha_ingreso": "2019-08-18",
+    "desde1": "2025-12-05",
+    "hasta1": "2025-12-25",
+    "desde2": "2026-01-20",
+    "hasta2": "2026-02-09",
+    "comentarios": "Optimiza procesos internos, crea tableros útiles y coordina esfuerzos entre áreas con efectiva comunicación.",
+    "imagen": "https://picsum.photos/seed/6/200/200"
   },
   {
     "id": 7,
@@ -84,11 +96,13 @@
     "correo": "camila.gomez@empresa.com",
     "sector": "Tecnología",
     "equipo": "QA",
-    "desde1": "11/12/2024",
-    "hasta1": "02/14/2025",
-    "desde2": "05/01/2025",
-    "hasta2": "08/25/2025",
-    "comentarios": "Es meticulosa, asegura calidad de entregables y mejora cobertura de pruebas automatizadas continuamente."
+    "fecha_ingreso": "2021-11-20",
+    "desde1": "2025-12-12",
+    "hasta1": "2025-12-26",
+    "desde2": "2026-02-05",
+    "hasta2": "2026-02-19",
+    "comentarios": "Es meticulosa, asegura calidad de entregables y mejora cobertura de pruebas automatizadas continuamente.",
+    "imagen": "https://picsum.photos/seed/7/200/200"
   },
   {
     "id": 8,
@@ -97,11 +111,13 @@
     "correo": "nicolas.torres@empresa.com",
     "sector": "Tecnología",
     "equipo": "I+D",
-    "desde1": "10/20/2024",
-    "hasta1": "12/15/2024",
-    "desde2": "02/01/2025",
-    "hasta2": "06/20/2025",
-    "comentarios": "Explora nuevas tecnologías, documenta experimentos y valida hipótesis mediante pruebas controladas con usuarios."
+    "fecha_ingreso": "2017-09-10",
+    "desde1": "2025-11-25",
+    "hasta1": "2025-12-15",
+    "desde2": "2026-02-01",
+    "hasta2": "2026-02-21",
+    "comentarios": "Explora nuevas tecnologías, documenta experimentos y valida hipótesis mediante pruebas controladas con usuarios.",
+    "imagen": "https://picsum.photos/seed/8/200/200"
   },
   {
     "id": 9,
@@ -110,11 +126,13 @@
     "correo": "martina.ruiz@empresa.com",
     "sector": "Marketing",
     "equipo": "Performance",
-    "desde1": "10/25/2024",
-    "hasta1": "01/05/2025",
-    "desde2": "03/10/2025",
-    "hasta2": "07/10/2025",
-    "comentarios": "Coordina campañas multicanal, mide métricas clave y ajusta mensajes según resultados semanales obtenidos."
+    "fecha_ingreso": "2023-01-05",
+    "desde1": "2025-12-18",
+    "hasta1": "2026-01-02",
+    "desde2": "2026-01-15",
+    "hasta2": "2026-01-30",
+    "comentarios": "Coordina campañas multicanal, mide métricas clave y ajusta mensajes según resultados semanales obtenidos.",
+    "imagen": "https://picsum.photos/seed/9/200/200"
   },
   {
     "id": 10,
@@ -123,11 +141,13 @@
     "correo": "alejandro.morales@empresa.com",
     "sector": "Compras",
     "equipo": "Proveedores",
-    "desde1": "11/05/2024",
-    "hasta1": "02/28/2025",
-    "desde2": "04/10/2025",
-    "hasta2": "09/10/2025",
-    "comentarios": "Impulsa acuerdos estratégicos, negocia con proveedores críticos y mantiene márgenes saludables para la empresa."
+    "fecha_ingreso": "2012-02-11",
+    "desde1": "2025-11-10",
+    "hasta1": "2025-12-08",
+    "desde2": "2026-01-25",
+    "hasta2": "2026-02-21",
+    "comentarios": "Impulsa acuerdos estratégicos, negocia con proveedores críticos y mantiene márgenes saludables para la empresa.",
+    "imagen": "https://picsum.photos/seed/10/200/200"
   },
   {
     "id": 11,
@@ -136,11 +156,13 @@
     "correo": "paula.vargas@empresa.com",
     "sector": "Atención al Cliente",
     "equipo": "Soporte Nivel 2",
-    "desde1": "12/01/2024",
-    "hasta1": "03/01/2025",
-    "desde2": "04/15/2025",
-    "hasta2": "08/30/2025",
-    "comentarios": "Atiende casos complejos, empatiza con usuarios y logra altos índices de satisfacción de servicio."
+    "fecha_ingreso": "2020-06-01",
+    "desde1": "2025-12-10",
+    "hasta1": "2025-12-24",
+    "desde2": "2026-01-12",
+    "hasta2": "2026-01-26",
+    "comentarios": "Atiende casos complejos, empatiza con usuarios y logra altos índices de satisfacción de servicio.",
+    "imagen": "https://picsum.photos/seed/11/200/200"
   },
   {
     "id": 12,
@@ -149,11 +171,13 @@
     "correo": "bruno.castillo@empresa.com",
     "sector": "Finanzas",
     "equipo": "Contabilidad",
-    "desde1": "10/02/2024",
-    "hasta1": "12/22/2024",
-    "desde2": "01/10/2025",
-    "hasta2": "05/15/2025",
-    "comentarios": "Automatiza reportes financieros, valida cifras con rigor y reduce tiempos de cierre contable mensualmente."
+    "fecha_ingreso": "2023-09-01",
+    "desde1": "2025-12-15",
+    "hasta1": "2025-12-30",
+    "desde2": "2026-01-10",
+    "hasta2": "2026-01-25",
+    "comentarios": "Automatiza reportes financieros, valida cifras con rigor y reduce tiempos de cierre contable mensualmente.",
+    "imagen": "https://picsum.photos/seed/12/200/200"
   },
   {
     "id": 13,
@@ -162,11 +186,13 @@
     "correo": "daniela.navarro@empresa.com",
     "sector": "Recursos Humanos",
     "equipo": "Capacitación",
-    "desde1": "10/18/2024",
-    "hasta1": "01/25/2025",
-    "desde2": "03/05/2025",
-    "hasta2": "07/31/2025",
-    "comentarios": "Conduce sesiones de capacitación, diseña materiales claros y acompaña adopción de herramientas organizacionales nuevas."
+    "fecha_ingreso": "2016-10-18",
+    "desde1": "2025-11-20",
+    "hasta1": "2025-12-17",
+    "desde2": "2026-02-02",
+    "hasta2": "2026-02-29",
+    "comentarios": "Conduce sesiones de capacitación, diseña materiales claros y acompaña adopción de herramientas organizacionales nuevas.",
+    "imagen": "https://picsum.photos/seed/13/200/200"
   },
   {
     "id": 14,
@@ -175,11 +201,13 @@
     "correo": "javier.ortega@empresa.com",
     "sector": "Tecnología",
     "equipo": "Infraestructura",
-    "desde1": "11/22/2024",
-    "hasta1": "02/28/2025",
-    "desde2": "04/20/2025",
-    "hasta2": "09/25/2025",
-    "comentarios": "Monitorea infraestructura crítica, implementa alertas preventivas y colabora en planes robustos de continuidad."
+    "fecha_ingreso": "2022-12-01",
+    "desde1": "2025-12-12",
+    "hasta1": "2025-12-27",
+    "desde2": "2026-01-15",
+    "hasta2": "2026-01-30",
+    "comentarios": "Monitorea infraestructura crítica, implementa alertas preventivas y colabora en planes robustos de continuidad.",
+    "imagen": "https://picsum.photos/seed/14/200/200"
   },
   {
     "id": 15,
@@ -188,11 +216,13 @@
     "correo": "elena.cruz@empresa.com",
     "sector": "Analítica",
     "equipo": "BI",
-    "desde1": "10/12/2024",
-    "hasta1": "12/30/2024",
-    "desde2": "02/05/2025",
-    "hasta2": "06/05/2025",
-    "comentarios": "Investiga oportunidades de mejora, elabora análisis comparativos y propone decisiones basadas en evidencia."
+    "fecha_ingreso": "2020-02-05",
+    "desde1": "2025-12-10",
+    "hasta1": "2025-12-24",
+    "desde2": "2026-01-20",
+    "hasta2": "2026-02-03",
+    "comentarios": "Investiga oportunidades de mejora, elabora análisis comparativos y propone decisiones basadas en evidencia.",
+    "imagen": "https://picsum.photos/seed/15/200/200"
   },
   {
     "id": 16,
@@ -201,11 +231,13 @@
     "correo": "tomas.herrera@empresa.com",
     "sector": "Ventas",
     "equipo": "Inside Sales",
-    "desde1": "10/08/2024",
-    "hasta1": "01/20/2025",
-    "desde2": "03/10/2025",
-    "hasta2": "08/10/2025",
-    "comentarios": "Optimiza embudos de ventas, da seguimiento disciplinado y comparte mejores prácticas con el equipo."
+    "fecha_ingreso": "2019-03-25",
+    "desde1": "2025-12-05",
+    "hasta1": "2025-12-19",
+    "desde2": "2026-01-12",
+    "hasta2": "2026-01-26",
+    "comentarios": "Optimiza embudos de ventas, da seguimiento disciplinado y comparte mejores prácticas con el equipo.",
+    "imagen": "https://picsum.photos/seed/16/200/200"
   },
   {
     "id": 17,
@@ -214,11 +246,13 @@
     "correo": "laura.mendoza@empresa.com",
     "sector": "Legal",
     "equipo": "Compliance",
-    "desde1": "12/05/2024",
-    "hasta1": "03/30/2025",
-    "desde2": "05/01/2025",
-    "hasta2": "09/15/2025",
-    "comentarios": "Gestiona contratos complejos, asegura cumplimiento regulatorio y asesora a proyectos con enfoque de riesgos."
+    "fecha_ingreso": "2011-09-01",
+    "desde1": "2025-11-15",
+    "hasta1": "2025-12-12",
+    "desde2": "2026-01-20",
+    "hasta2": "2026-02-16",
+    "comentarios": "Gestiona contratos complejos, asegura cumplimiento regulatorio y asesora a proyectos con enfoque de riesgos.",
+    "imagen": "https://picsum.photos/seed/17/200/200"
   },
   {
     "id": 18,
@@ -227,11 +261,13 @@
     "correo": "andres.rios@empresa.com",
     "sector": "Logística",
     "equipo": "Distribución",
-    "desde1": "10/28/2024",
-    "hasta1": "12/18/2024",
-    "desde2": "01/25/2025",
-    "hasta2": "06/25/2025",
-    "comentarios": "Planifica rutas logísticas, reduce tiempos de entrega y prioriza seguridad operativa en todo momento."
+    "fecha_ingreso": "2021-10-28",
+    "desde1": "2025-12-10",
+    "hasta1": "2025-12-24",
+    "desde2": "2026-01-15",
+    "hasta2": "2026-01-29",
+    "comentarios": "Planifica rutas logísticas, reduce tiempos de entrega y prioriza seguridad operativa en todo momento.",
+    "imagen": "https://picsum.photos/seed/18/200/200"
   },
   {
     "id": 19,
@@ -240,11 +276,13 @@
     "correo": "carla.silva@empresa.com",
     "sector": "Recursos Humanos",
     "equipo": "Reclutamiento",
-    "desde1": "11/10/2024",
-    "hasta1": "02/10/2025",
-    "desde2": "04/01/2025",
-    "hasta2": "09/01/2025",
-    "comentarios": "Recluta talento idóneo, estructura procesos justos y fortalece cultura colaborativa a través de feedback."
+    "fecha_ingreso": "2019-11-10",
+    "desde1": "2025-12-12",
+    "hasta1": "2025-12-26",
+    "desde2": "2026-01-15",
+    "hasta2": "2026-01-29",
+    "comentarios": "Recluta talento idóneo, estructura procesos justos y fortalece cultura colaborativa a través de feedback.",
+    "imagen": "https://picsum.photos/seed/19/200/200"
   },
   {
     "id": 20,
@@ -253,10 +291,12 @@
     "correo": "miguel.duarte@empresa.com",
     "sector": "Producto",
     "equipo": "Insights",
-    "desde1": "10/01/2024",
-    "hasta1": "01/15/2025",
-    "desde2": "03/01/2025",
-    "hasta2": "10/01/2025",
-    "comentarios": "Analiza datos de producto, descubre patrones relevantes y aporta ideas para incrementos de valor."
+    "fecha_ingreso": "2023-05-20",
+    "desde1": "2025-12-15",
+    "hasta1": "2025-12-30",
+    "desde2": "2026-01-10",
+    "hasta2": "2026-01-25",
+    "comentarios": "Analiza datos de producto, descubre patrones relevantes y aporta ideas para incrementos de valor.",
+    "imagen": "https://picsum.photos/seed/20/200/200"
   }
 ]
