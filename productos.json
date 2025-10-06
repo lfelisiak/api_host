@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "nombre": "Zapatillas Runner X",
+    "descripcion": "Zapatillas deportivas transpirables para running.",
+    "precio": 89.99,
+    "imagen": "https://picsum.photos/seed/1/400/400",
+    "marca": "Nike",
+    "categoria": "Calzado",
+    "destacado": true,
+    "puntuacion": 4.7
+  },
+  {
+    "id": 2,
+    "nombre": "Smartphone Galaxy Lite",
+    "descripcion": "Teléfono inteligente con pantalla AMOLED y buena batería.",
+    "precio": 299.99,
+    "imagen": "https://picsum.photos/seed/2/400/400",
+    "marca": "Samsung",
+    "categoria": "Electrónica",
+    "destacado": false,
+    "puntuacion": 4.3
+  },
+  {
+    "id": 3,
+    "nombre": "Auriculares Bluetooth Pro",
+    "descripcion": "Auriculares inalámbricos con cancelación de ruido.",
+    "precio": 59.99,
+    "imagen": "https://picsum.photos/seed/3/400/400",
+    "marca": "Sony",
+    "categor
